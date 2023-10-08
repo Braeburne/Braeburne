@@ -1,8 +1,8 @@
 # Introduction
 
-### Salutations! 👋
+Salutations! 👋
 
-### I'm Nick Lewis, a software engineer originally from Arizona. ☀️
+I'm Nick Lewis, a software engineer originally from Arizona. ☀️
 
 # About Me
 
