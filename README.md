@@ -10,6 +10,7 @@ I specialize in back-end development, however, I do have an interest in transiti
 
 - 📫 How to reach me: ...
   * Email: nicklaus.a.lewis@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/nicklaus-lewis/
 
 - 🔭 I’m currently working on ...
   * CORVID | A new feature / bug request ticket handling software
